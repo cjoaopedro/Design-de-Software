@@ -29,7 +29,7 @@ A estrategia adotada focou em garantir **estabilidade, redundancia e eficiencia 
 * **Reaproveitamento de Recursos (Pooling):** Utilizado pelo Proxy de Banco para gerenciar e reusar um número fixo de conexões abertas sem sobrecarregar o servidor.
 
 
-## 6. Limitações conhecidas
+## 4. Limitações conhecidas
 
 O que você sabe que não está tratado ou que poderia falhar?
 * **Latência em Mensageria:** O processamento assíncrono melhora o desempenho, mas adiciona um pequeno atraso (latência) até que a transação seja confirmada no banco principal.
