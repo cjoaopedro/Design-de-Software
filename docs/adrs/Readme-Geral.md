@@ -1,40 +1,24 @@
-Design de Software
+# Design de Software
 
-Repositório dedicado à documentação técnica e arquitetural desenvolvido para a disciplina de **Design de Software**.
+Repositório destinado ao registro das atividades curriculares da disciplina de **Design de Software**.
 
----
+## 1. Identificação
 
-Autores
-
-**João Pedro Moreira Costa**
-**Matheus Borges** 
-**Octávio Freire**
-
-**Data de Início:** Agosto / 2026  
-**Linguagem / Formato:** Markdown
+- **Disciplina/Atividade:** Design de Software
+- **Autores:** João Pedro Moreira Costa, Matheus Borges e Octávio Freire
+- **Data:** 04/08/2026
+- **Linguagem:** Markdown
 
 ---
 
-## Objetivo do Repositório
+## 2. Objetivo do Projeto
 
-Este repositório tem como propósito documentar a evolução arquitetural e os exercícios práticos propostos durante as aulas. Utilizamos o padrão de ADR para registrar decisões de design de forma estruturada, justificando escolhas técnicas, mitigando riscos e mantendo o histórico compreensível para qualquer membro da equipe ou revisor.
+Este repositório tem como objetivo principal a aplicação prática de conceitos de Design de Software, servindo como um guia estruturado para registrar a evolução arquitetural do sistema. 
 
----
+Através da elaboração de diversas ADRs, o projeto busca:
+- Documentar e justificar as decisões de design e escolhas tecnológicas;
+- Manter o histórico do projeto organizado e de fácil navegação para a equipe e revisor.
 
-##  Estrutura das ADRs
+## 3. Organização do Repositório
 
-Abaixo está o índice de decisões tomadas ao longo da disciplina. Você pode navegar diretamente para cada documento detalhado:
-
-| **[ADR-0001](./adrs/ADR-0001.md)** | Falhas de Escalabilidade e Desempenho | `Proposto` | 03/08/2026
-| **[ADR-0002](./adrs/ADR-0002.md)** | Aplicativo de Reserva da Cantina | `Aceito` | 04/08/2026 
----
-
-## Princípios e Diretrizes Utilizados
-
-Nossa tomada de decisão é guiada por boas práticas de engenharia de software e pelos **Princípios de Hooker**:
-1. **O Software existe para agregar valor ao usuário:** Foco primário na resolução da dor principal.
-2. **KISS / Fazer Apenas o Necessário:** Evitar fazer coisas desnecessárias, dando prioridade para o que foi proposto.
-
-
----
-
+O repositório está estruturado utilizando o padrão de **ADRs (*Architecture Decision Records*)** para registrar historicamente o contexto, as alternativas e os motivos das escolhas técnicas adotadas.
