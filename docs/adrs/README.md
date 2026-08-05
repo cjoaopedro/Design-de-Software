@@ -4,7 +4,7 @@ Repositório destinado ao registro das atividades curriculares da disciplina de 
 
 ## 1. Identificação
 
-- **Disciplina/Atividade:** Design de Software - Atividade 1
+- **Disciplina/Atividade:** Design de Software
 - **Autores:** João Pedro Moreira Costa, Matheus Borges e Octávio Freire
 - **Data:** 04/08/2026
 - **Linguagem:** Markdown
